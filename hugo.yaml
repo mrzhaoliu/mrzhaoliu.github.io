@@ -1,7 +1,7 @@
 baseURL: https://www.zhao-liu.com
 
 languageCode: bn
-title: "John's Blog"
+title: "Zhao Liu's Personal Website"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Zhao Liu's Personal Website"
     weight: 1
   bn:
     languageCode: bn
