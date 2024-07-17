@@ -11,63 +11,148 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
+    name: Crédit Agricole Assurances - Pacifica
+    url: "https://www.ca-assurances.com"
+    location: Paris, Île-de-France, France
+    logo: /images/sections/experiences/CAA.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Crédit Agricole Group is a French international banking group and the world's largest cooperative financial institution. Crédit Agricole Assurances is the 1st insurer in France and bancassurer in Europe.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Climate Commitment Mission Intern
+    start: May 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Developed and implemented a methodology for calculating carbon emissions for a home insurance portfolio of 3.2 million contracts, including associated claims management.
+    - Supported other climate projects, such as calculating carbon emissions for international auto insurance portfolio.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Energy Justice Lab
+    url: "https://energyjustice.indiana.edu/index.html"
+    location: Philadelphia, PA, USA (remote)
+    logo: /images/sections/experiences/EJL.png
+    overview: The Energy Justice Lab is a research collaboration between Indiana University (IU) and the University of Pennsylvania (Penn). The Lab mission is to explore, measure, and improve the equity and justice dimensions of society’s ongoing energy transition.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Research Assistant
+    start: Feb 2024
+    end: Jun 2024
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Oversaw the auditing, and integration of nearly 30,000 utility disconnection records into the Utility Disconnections Dashboard (https://utilitydisconnections.org), and also developed workflows, maintained the codebase, and expanded data categories, in addition to the responsibilities I held in 2023.
+  - designation: Interim Lab Manager
+    start: Dec 2023
+    end: Feb 2024
+    responsibilities:
+    - Oversaw the data pipeline and managed the work of the data collection team in addition to the responsibilities I held in 2023.
+  - designation: Research Assistant
+    start: Sep 2023
+    end: Dec 2023
+    responsibilities:
+    - Web scraped for utility disconnection data.
+    - Helped file public information requests for utility data.
+    - Helped maintain legal data on the utility disconnection dashboard.
+    - Helped improve the functionality of the dashboard through additional data gathering and more granular geographic resolution.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: World Resources Institute
+    url: "https://www.wri.org"
+    location: Beijing, China (remote)
+    logo: /images/sections/experiences/wri.png
+    overview: "The World Resources Institute is a global research non-profit organization established in 1982. WRI organizes its work around six critical goals that the world must achieve this decade in order to secure a sustainable future:  climate, energy, food, forests, water, and sustainable citie."
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Research Intern at China Sustainable Transition Center
+    start: Sep 2023
+    end: Dec 2023
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Reviewed global just transition practices, focusing on the U.S. IRA and the EU's Just Transition Mechanism.
+    - Evaluated the current state and pathways of ecology-oriented development in China.
+
+- company:
+    name: Turn Forward
+    url: "https://turnforward.org"
+    location: Philadelphia, USA
+    logo: /images/sections/experiences/tf.png
+    overview: Turn Forward is an independent, non-profit organization dedicated to advancing an ambitious vision for American offshore wind power that meets today’s climate, economic, equity and environmental challenges.
+  positions:
+  - designation: Policy Fellow
+    start: Jun 2023
+    end: Aug 2023
+    responsibilities:
+    - Engaged in policy advocacy activities, including drafting a public comment for CEQ's Ocean Justice Strategy.
+    - Researched and developed a comprehensive roadmap for scaling offshore wind beyond 100 GW in the U.S.
+    - Assembled and curated a detailed repository encompassing offshore wind projects, regulatory frameworks, and scholarly studies to support comprehensive analysis and strategic development of offshore wind industry.
+
+- company:
+    name: FOFWEEKLY
+    url: "https://www.fofweekly.com"
+    location: Beijing, China (remote, part-time)
+    logo: /images/sections/experiences/FOF.png
+    overview: FOFWEEKLY (母基金周刊) is a famous Chinese private equity service and research provider founded in 2017.
+  positions:
+  - designation: Part-time Columnist & Researcher
+    start: Apr 2021
+    end: Sep 2023
+    responsibilities:
+    - Co-author of FOFWEEKLY China PE/VC Impact Investing Report, responsible for research.
+    - Authored over 20 articles covering topics such as fund of funds (FoF), private equity/venture capital (PE/VC).
+
+- company:
+    name: MiraclePlus (former Y Combinator China)
+    url: "https://www.miracleplus.com/en/"
+    location: Beijing, China
+    logo: /images/sections/experiences/mp.png
+    overview: MiraclePlus, previously Y Combinator China, is one of the largest early-stage startup accelerators and venture capital firms in China.
+  positions:
+  - designation: Investment Analyst Intern, with Outstanding Contribution Award
+    start: Jun 2021
+    end: Sep 2021
+    responsibilities:
+    - Excelled in deal sourcing by identifying and recommending 167 potential deals, reaching the highest company KPI.
+    - Conducted investment research on 13 impact investment and energy investment tracks.
+    - Authored six due diligence reports focusing on potential investment opportunities in the energy and water sectors.
+
+- company:
+    name: Conseil Interprofessionnel des Vins de Provence (CIVP)
+    url: "https://www.vinsdeprovence.com"
+    location: Marseille, France
+    logo: /images/sections/experiences/civp.png
+    overview: The Conseil Interprofessionnel des Vins de Provence (CIVP, Interprofessional Council of Provence Wines in English) is an interprofessional wine organization in the Provence region of France that includes over 600 producers and more than 100 trading companies, producing annually over 1.2 million hectoliters, equivalent to 170 million bottles.
+  positions:
+  - designation: Part-time Assistant
+    start: Jan 2021
+    end: Jun 2021
+    responsibilities:
+    - Concluded Chinese market study and marketing strategy consulting under global marketing director's supervision.
+    - Co-authored a 61-page wine market report titled Étude de marché et formulation de stratégie marketing en Chine (Market research and marketing strategy formulation in China).
+
+- company:
+    name: Ernst & Young
+    url: "https://www.ey.com/"
+    location: Shanghai, China
+    logo: /images/sections/experiences/ey.png
+    overview: EY's Climate Change and Sustainability Services (CCaSS) multidisciplinary teams help companies understand the risks and opportunities arising from climate change and sustainability issues.
+  positions:
+  - designation: ESG Intern, Climate Change and Sustainability Services (CCaSS) Department
+    start: Nov 2020
+    end: Feb 2021
+    responsibilities:
+    - Authored two articles on carbon neutrality and ESG, featured on E&Y’s social media.
+    - Supported MSCI ESG rating benchmarking, ESG structuring, and policy design for 12 listed companies.
+    - Compiled 15 chapters in six ESG reports covering environmental, social and governance topics.
+
+- company:
+    name: China Alliance of Social Value Investment
+    url: "https://www.casvi.org/en/h-default.html"
+    location: Shenzhen, China (hybrid)
+    logo: /images/sections/experiences/casvi.png
+    overview: China Alliance of Social Value Investment (CASVI) is the first licensed international NPO specializing in building the ecosystem of sustainable finance in China.
+  positions:
+  - designation: Research Management Trainee at the Research Institute
+    start: Feb 2020
+    end: Oct 2020
+    responsibilities:
+    - Collected and scored 7,222 data points based on 26 ESG key issues for the “SV99” ESG index.
+    - Analyzed the major ESG and sustainability index and standards to help optimize the “SV99” ESG index.
+    - Responsible for departmental administrative tasks includes research project management.
