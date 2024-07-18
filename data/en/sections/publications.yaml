@@ -3,7 +3,7 @@ section:
   name: Publications
   id: publications
   enable: true
-  weight: 6
+  weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -12,71 +12,96 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: "Machine Learning"
-  filter: "machinelearning"
-- name: "Image Processing"
-  filter: "image-processing"
-- name: Security
-  filter: "security"
+- name: "Charitable Trust"
+  filter: "Charitable Trust"
+- name: "Energy Transition"
+  filter: "Energy Transition"
+- name: Non-profit
+  filter: "Non-profit"
+- name: CSR/ESG
+  filter: "CSR/ESG"
 
 # your publications
 publications:
-- title: An Example Paper on Machine Learning
+- title: The Current Situation and Trend Analysis of China’s Charitable Trust
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: Research Report on Social Impact Finance in China (No.2)
+    date: 1 March 2024
+    url: https://www.pishu.com.cn/skwx_ps/bookDetail?SiteID=14&ID=15325205
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
-  paper:
-    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
-    url: https://example.com
-  categories: ["machinelearning","image-processing"]
-  tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
+  - name: Zhao Liu
+    url: https://www.zhao-liu.com
+  - name: Yaqian Xiao
+    url: https://www.pishu.com.cn/skwx_ps/bookDetail?SiteID=14&ID=15325205
+  - name: Shiqi Lin
+    url: https://www.pishu.com.cn/skwx_ps/bookDetail?SiteID=14&ID=15325205
 
-- title: An Sample Paper on Image Processing
-  publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
-  authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
   paper:
-    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
+    summary: "The overall report won China Social Enterprise and Impact Investing Forum’s For Good Research Award (2023)<br><br>ISBN: 9787522833538<br><br>Publisher: Social Sciences Academic Press (China)<br><br>Abstract: After the promulgation of the Trust Law of the People's Republic of China, the Charity Law of the People's Republic of China, and the Management Measures for Charitable Trusts, charitable trusts have become a new tool for coordinating various sectors of society to engage in philanthropic and charitable activities. After years of exploratory development, the number of charitable trusts and their asset scale has grown rapidly, with innovative designs in trust models and diverse categories of assets. However, the current situation of charitable trusts in China continues to confront challenges concerning insufficient support systems, ambiguous eligibility criteria, non-standardized information disclosure, and a requisite for enhanced societal awareness. Therefore, it is imperative to enhance policy and promotional support."
     url: https://example.com
-  categories: ["image-processing"]
-  tags: ["Image Processing", "Computer Vision"]
+  categories: ["Charitable Trust", "Non-profit"]
+  tags: ["Charitable Trust", "Non-profit"]
 
-- title: An Example Paper on Security
+- title: Decarbonizing Power Generation in Pennsylvania – A Roadmap Beyond RGGI
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: Student-Published Anthology of Research at Kleinman Magazine
+    date: 1 Oct 2023
+    url: https://kleinmanenergy.upenn.edu/wp-content/uploads/2023/08/KC-SPARK-Anthology-2023.pdf
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Zhao Liu
+    url: https://www.zhao-liu.com
   paper:
-    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
+    summary: Pennsylvania’s heavy reliance on fossil fuels poses a significant challenge to the sustainable development of the power generation sector. Although Pennsylvania has joined the Regional Greenhouse Gas Initiative (RGGI) to reduce carbon emissions, ongoing legal disputes may compel Pennsylvania to withdraw from RGGI, resulting in significant environmental, health, and economic consequences. To mitigate these possible losses, remedial actions should tackle air pollution and environmental justice issues while introducing supplementary policies to RGGI to encourage rapid decarbonization.
     url: https://example.com
-  categories: ["security"]
-  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+  categories: ["Energy Transition"]
+  tags: ["Energy Transition", "Carbon Emission Trading"]
+
+- title: The Current Situation and Trend Analysis of China’s Charitable Trust
+  publishedIn:
+    name: Research Report on Social Impact Finance Blue Book (No.1)
+    date: 1 December 2021
+    url: https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=13532430&contentType=literature&type=%25E6%258A%25A5%25E5%2591%258A
+  authors:
+  - name: Zhao Liu
+    url: https://www.zhao-liu.com
+  paper:
+    summary: "ISBN: 9787520192460<br><br>Publisher: Social Sciences Academic Press (China)<br><br>Abstract: The introduction of charitable trust system into China is relatively late. After The Trust Law of the People's Republic of China, The Charity Law of the People's Republic of China and The Management Measures of Charitable Trust were successively promulgated, the number of charitable trust filings in China has grown rapidly, with active different social entities' participation. Charitable trust generally presents a steady and positive development trend and play an important role in promoting the third distribution and helping the development of public welfare. However, the laws and regulations and supporting systems for charitable trust still need to be further improved, and the public's awareness of charitable trust also remains to be improved."
+    url: https://example.com
+  categories: ["Charitable Trust", "Non-profit"]
+  tags: ["Charitable Trust", "Non-profit"]
+
+- title: Shenzhen Corporate Social Responsibility Development Report (2018-2019)
+  publishedIn:
+    name: Shenzhen Philanthropy Development Report (2018-2019)
+    date: 1 April 2021
+    url: https://new.qq.com/rain/a/20201231A0B0K600
+  authors:
+  - name: Fang Yan
+    url: https://new.qq.com/rain/a/20201231A0B0K600
+  - name: Zhao Liu
+    url: https://new.qq.com/rain/a/20201231A0B0K600
+  paper:
+    summary: "ISBN: 9787306069580<br><br>Publisher: Sun Yat-sen University Press<br><br>Abstract: Shenzhen, as the window of China's Reform and Opening-up, started to advocate the development of CSR and related concepts early. In recent years, with the legalization, scientific, standardized and systematic management of CSR, it has developed rapidly. In order to provide a reference for the future development of CSR in Shenzhen, the report presents CSR cases by studying the development of state-owned, private and foreign enterprises in Shenzhen in 2018-2019, while summarizing the experience and putting forward some problems and shortcomings in the development of CSR in Shenzhen. Finally, the report looks forward to the future development of CSR in Shenzhen."
+    url: https://example.com
+  categories: ["CSR/ESG", "Non-profit"]
+  tags: ["CSR/ESG", "Non-profit"]
+
+- title: A-Share Listed Company Poverty Alleviation Practice Report (2020)
+  publishedIn:
+    name: A-Share Listed Company Sustainable Development Value Assessment Report (2020)
+    date: 1 January 2021
+    url: https://baike.baidu.com/item/A股上市公司可持续发展价值评估报告%282020%29/56876242?fr=aladdin
+  authors:
+  - name: Wen Li
+    url: https://baike.baidu.com/item/A股上市公司可持续发展价值评估报告%282020%29/56876242?fr=aladdin
+  - name: Xinke Gu
+    url: https://baike.baidu.com/item/A股上市公司可持续发展价值评估报告%282020%29/56876242?fr=aladdin
+  - name: Zhao Liu
+    url: https://www.zhao-liu.com
+  - name: Wenqi Hu
+  url: https://baike.baidu.com/
+  paper:
+    summary: "The overall report won China Soft Science Special Award (2021)<br><br>ISBN: 9787520176668<br><br>Publisher: Social Sciences Academic Press (China)<br><br>Abstract: After the founding of the People's Republic of China, especially since the Reform and Opening-up, under the vigorous advocacy and promotion of the Chinese government, all sectors of society have joined poverty alleviation and it has achieved world-renowned achievements. In the process, Chinese enterprises, represented by large listed companies, have actively responded to the national call, taken the initiative to assume social responsibilities, and actively innovated in the process of poverty alleviation, making great contributions to winning the battle against poverty and promoting the achievement of many SDGs including 'no poverty'. This report takes A-share CSI 300 companies as the main research object, combines quantitative data analysis and innovative case analysis, and systematically studies the poverty alleviation actions of listed companies from various dimensions such as motivation, planning, input, methods, and outcomes. In addition, the report explores the sustainability and comprehensive social value contribution of listed companies in poverty alleviation according to the SDGs framework."
+    url: https://example.com
+  categories: ["CSR/ESG", "Non-profit"]
+  tags: ["CSR/ESG", "Non-profit"]
